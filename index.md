@@ -6,9 +6,9 @@ Here you can find links to my GitHub repos and live demos.
 
 ### Projects
 
-Name                |    Technology    |    Repo     |   Live Demo  
-------------        |   -------------  |-------------| -------------
-React Product Table |     React JS     | [Link](https://github.com/Thornus/react-product-table) | Work in progress
+Name                |    Technology    |    Repo     
+------------        |   -------------  |-------------
+React Product Table |     React JS     | [Link](https://github.com/Thornus/react-product-table)
 
 ### Contact
 
