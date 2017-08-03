@@ -1,8 +1,10 @@
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+
 ## Welcome to my GitHub Page
 
 I'm **Luca**, a young coding enthusiast from Italy who loves New York and sushi.
 
-Here you can find links to my GitHub repos and live demos.
+Here you can find links to my GitHub repos.
 
 ### Projects
 
