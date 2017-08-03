@@ -1,3 +1,5 @@
+<head><link rel="shortcut icon" type="image/x-icon" href="favicon.ico"></head>
+
 ## Welcome to my GitHub Page
 
 I'm **Luca**, a young coding enthusiast from Italy who loves New York and sushi.
