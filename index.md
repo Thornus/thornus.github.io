@@ -20,4 +20,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Contact
 
 **GitHub Profile:** [@Thornus](https://github.com/Thornus)
+
 **Email:** luca7dasic@gmail.com
