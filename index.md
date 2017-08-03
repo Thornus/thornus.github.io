@@ -6,16 +6,9 @@ Here you can find links to my GitHub repos and live demos.
 
 ### Projects
 
-Name         |     Repo     |   Live Demo  
------------- | -------------| -------------
-Content from cell 1 | Content from cell 2 |
-Content in the first column | Content in the second column |
-
-
-
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Name                |      Technology     |    Repo     |   Live Demo  
+------------        |     -------------   |-------------| -------------
+React Product Table |        React        | [Link](https://github.com/Thornus/react-product-table) | Work in progress
 
 ### Contact
 
