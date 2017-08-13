@@ -8,10 +8,11 @@ Here you can find links to my GitHub repos.
 
 ### Projects
 
-Name                |    Technology    |    Repo     
-------------        |   -------------  |-------------
-React Product Table |     React JS     | [Link](https://github.com/Thornus/react-product-table)
-Mushi Collection    |     C# / PHP     | [Link](https://github.com/Thornus/mushi-collection)
+Name                |    Technology    |    Repo                                                |   Live Demo
+------------        |   -------------  |-------------                                           |------------
+React Product Table |     React JS     | [Link](https://github.com/Thornus/react-product-table) |     X
+Mushi Collection    |     C# / PHP     | [Link](https://github.com/Thornus/mushi-collection)    |     X
+Presentation Website|    HTML/CSS/JS   | [Link](https://github.com/Thornus/presentation-website)| [Link](https://htmlpreview.github.io/?https://github.com/Thornus/presentation-website/blob/master/index.html)
 
 ### Contact
 
