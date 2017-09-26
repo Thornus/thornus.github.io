@@ -10,6 +10,7 @@ Here you can find links to my GitHub repos.
 
 Name                |    Technology    |    Repo                                                |   Live Demo
 ------------        |   -------------  |-------------                                           |------------
+RPG Characters Cards API | Node.js / MongoDB | [Link](https://github.com/Thornus/rpg-characters-cards-api) | [Link](https://rpg-characters-cards-api.herokuapp.com/api/characters)
 Life Quality Data   |     React JS     | [Link](https://github.com/Thornus/life-quality-data)   | [Link](https://life-quality-data.firebaseapp.com)
 React Product Table |     React JS     | [Link](https://github.com/Thornus/react-product-table) |     X
 Mushi Collection    |     C# / PHP     | [Link](https://github.com/Thornus/mushi-collection)    |     X
