@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub Page
 
-I'm **Luca**, a young coding enthusiast from Germany who loves New York and sushi.
+I'm **Luca**, a young coding enthusiast based in Germany who loves New York and sushi.
 
 Here you can find links to my GitHub repos.
 
